@@ -1,4 +1,4 @@
-# Gabriel Sousa🎶
+# Gabriel Sousa👨🏽‍💻
 
 **'Desenvolvedor Junior"**
 
@@ -11,9 +11,9 @@ experiência em C, C++, bem como vivência em Robótica com Arduino: prototipos
 de projetos 
 
 "[Meu Linkedin](www.linkedin.com/in/gabriel-sousa-nascimento-36220b3aa)"
-Automações em Python para a organização de Arquivos 
 
-### Tecnologias
+## Tecnologias e Linguagens 🤖
+
 <img 
     align="left" 
     alt="HTML"
@@ -29,6 +29,22 @@ Automações em Python para a organização de Arquivos
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
 />
         
           
