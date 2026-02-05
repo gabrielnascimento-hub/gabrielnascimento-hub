@@ -14,21 +14,21 @@ de projetos
 Automações em Python para a organização de Arquivos 
 
 ### Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
-    title="Python" 
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 <img 
     align="left" 
     alt="CSS" 
-    title="C"
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
         
           
