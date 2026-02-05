@@ -15,21 +15,21 @@ Automações em Python para a organização de Arquivos
 
 ### Tecnologias
 
-<img
+<img 
     align="left" 
     alt="HTML"
-    title="Python" 
+    title="HTML" 
     width="30px" 
-    style="padding-right: 10px;"
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-    
-<img
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
     align="left" 
-    alt="HTML"
-    title="Python" 
+    alt="CSS" 
+    title="CSS"
     width="30px" 
-    style="padding-right: 10px;"
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-         />
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
         
           
