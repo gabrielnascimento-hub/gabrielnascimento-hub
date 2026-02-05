@@ -8,9 +8,7 @@ Redes de Computadores.
 
 Além da área de suporte, possuo conhecimentos em lógica de programação, com
 experiência em C, C++, bem como vivência em Robótica com Arduino: prototipos
-de projetos 
-
-[Meu Linkedin](www.linkedin.com/in/gabriel-sousa-nascimento-36220b3aa)
+de projetos "[Meu Linkedin](https://www.linkedin.com/in/gabriel-sousa-nascimento-36220b3aa/)"
 
 ## Tecnologias e Linguagens 🤖
 
