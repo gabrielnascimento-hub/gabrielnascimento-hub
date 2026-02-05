@@ -1,16 +1,25 @@
-## Hi there 👋
+# Gabriel Sousa🎶
 
-<!--
-**gabrielnascimento-hub/gabrielnascimento-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Desenvolvedor Junior"**
 
-Here are some ideas to get you started:
+Meu nome é Gabriel Nascimento, tenho 18 anos e sou estudante de Engenharia de
+Mecatrônica pelo IFCE – Campus Fortaleza, além de possuir formação técnica em
+Redes de Computadores. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além da área de suporte, possuo conhecimentos em lógica de programação, com
+experiência em C, C++, bem como vivência em Robótica com Arduino: prototipos
+de projetos 
+
+"[Meu Linkedin](www.linkedin.com/in/gabriel-sousa-nascimento-36220b3aa)"
+Automações em Python para a organização de Arquivos 
+
+### Tecnologias
+
+<img
+    align="left" 
+    alt="HTML"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
